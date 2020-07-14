@@ -1,5 +1,5 @@
 const googleMapLocationAPI = {
- APIKey: 'AIzaSyC1xr0ClOgm5-E2-FKETg4NRJvHC6zGSzw'   
+ APIKey: 'INSERT API_KEY'   
 }
 
 export default googleMapLocationAPI;
